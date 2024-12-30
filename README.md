@@ -1,3 +1,5 @@
+<img width="250px" src="https://neon.tech/brand/neon-logo-dark-color.svg" />
+
 # Running Neon database migrations using Sequelize
 
 This application is a simple typescript API using the Sequelize ORM, Neon and Express.js. It returns a list of authors and books written by them. This project uses Sequelize to generate and run database migrations. 
